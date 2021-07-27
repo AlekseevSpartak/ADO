@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Linq_student_var1/1.0.0": {
+        "runtime": {
+          "Linq_student_var1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq_student_var1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
