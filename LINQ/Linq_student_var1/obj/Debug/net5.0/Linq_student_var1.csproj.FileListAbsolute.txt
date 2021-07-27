@@ -1,0 +1,16 @@
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\Linq_student_var1.exe
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\Linq_student_var1.deps.json
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\Linq_student_var1.runtimeconfig.json
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\Linq_student_var1.runtimeconfig.dev.json
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\Linq_student_var1.dll
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\ref\Linq_student_var1.dll
+C:\Users\Спартак\source\repos\Linq_student_var1\bin\Debug\net5.0\Linq_student_var1.pdb
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.AssemblyInfoInputs.cache
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.AssemblyInfo.cs
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.dll
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\ref\Linq_student_var1.dll
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.pdb
+C:\Users\Спартак\source\repos\Linq_student_var1\obj\Debug\net5.0\Linq_student_var1.genruntimeconfig.cache
