@@ -1,0 +1,10 @@
+C:\Users\Спартак\source\repos\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\Спартак\source\repos\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\Спартак\source\repos\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\Спартак\source\repos\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
