@@ -1,9 +1,0 @@
-C:\Users\Спартак\source\repos\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
-C:\Users\Спартак\source\repos\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
-C:\Users\Спартак\source\repos\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
-C:\Users\Спартак\source\repos\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
-C:\Users\Спартак\source\repos\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
-C:\Users\Спартак\source\repos\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
-C:\Users\Спартак\source\repos\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
-C:\Users\Спартак\source\repos\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
-C:\Users\Спартак\source\repos\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
