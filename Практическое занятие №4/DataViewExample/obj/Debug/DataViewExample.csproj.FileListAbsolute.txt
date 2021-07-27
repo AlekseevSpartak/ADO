@@ -1,0 +1,12 @@
+C:\Users\Спартак\source\repos\DataViewExample\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\repos\DataViewExample\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\repos\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\Спартак\source\repos\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\Спартак\source\repos\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\Спартак\source\repos\DataViewExample\obj\Debug\DataViewExample.pdb
