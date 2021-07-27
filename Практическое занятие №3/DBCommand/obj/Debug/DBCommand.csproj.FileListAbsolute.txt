@@ -1,0 +1,24 @@
+C:\Users\Спартак\source\repos\DBCommand\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\repos\DBCommand\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\repos\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Спартак\source\repos\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Спартак\source\repos\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Спартак\source\repos\DBCommand\obj\Debug\DBCommand.pdb
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Спартак\source\ADO\Практическое занятие №3\DBCommand\obj\Debug\DBCommand.pdb
