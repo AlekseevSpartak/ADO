@@ -1,0 +1,10 @@
+C:\Users\Спартак\source\repos\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\Спартак\source\repos\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\Спартак\source\repos\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\Спартак\source\repos\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
