@@ -1,0 +1,12 @@
+C:\Users\Спартак\source\repos\DataSourcesWizard\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\repos\DataSourcesWizard\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\repos\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\Спартак\source\repos\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\Спартак\source\repos\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\Спартак\source\repos\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
