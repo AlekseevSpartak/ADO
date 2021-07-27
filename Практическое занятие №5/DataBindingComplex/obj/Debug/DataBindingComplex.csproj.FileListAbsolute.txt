@@ -1,0 +1,12 @@
+C:\Users\Спартак\source\repos\DataBindingComplex\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\repos\DataBindingComplex\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\repos\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\Спартак\source\repos\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\Спартак\source\repos\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+C:\Users\Спартак\source\repos\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
