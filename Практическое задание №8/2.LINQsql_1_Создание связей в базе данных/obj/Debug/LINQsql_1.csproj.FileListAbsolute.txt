@@ -1,0 +1,24 @@
+C:\Users\Спартак\source\repos\LINQsql_1\bin\Debug\LINQsql_1.exe.config
+C:\Users\Спартак\source\repos\LINQsql_1\bin\Debug\LINQsql_1.exe
+C:\Users\Спартак\source\repos\LINQsql_1\bin\Debug\LINQsql_1.pdb
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.Form1.resources
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.Properties.Resources.resources
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.csproj.GenerateResource.cache
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.exe
+C:\Users\Спартак\source\repos\LINQsql_1\obj\Debug\LINQsql_1.pdb
+C:\Users\Спартак\source\repos\LINQsql_1\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\repos\LINQsql_1\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\bin\Debug\Northwind.mdf
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\bin\Debug\Northwind_log.ldf
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\bin\Debug\LINQsql_1.exe.config
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\bin\Debug\LINQsql_1.exe
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\bin\Debug\LINQsql_1.pdb
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.csproj.AssemblyReference.cache
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.Form1.resources
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.Properties.Resources.resources
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.csproj.GenerateResource.cache
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.csproj.CoreCompileInputs.cache
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.exe
+C:\Users\Спартак\source\ADO\Практическое задание №8\2.LINQsql_1_Создание связей в базе данных\obj\Debug\LINQsql_1.pdb
